@@ -8,8 +8,12 @@ lib/node_modules/
 /.pnp
 .pnp.js
 
+backend/.env
+database.txt
+urlBD.txt
 # testing
 /coverage
+frontend/src/firebase.js
 
 # production
 /build
@@ -24,3 +28,4 @@ lib/node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
